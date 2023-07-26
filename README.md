@@ -1,6 +1,7 @@
 # Aircraft-API
 
 A simple api to get performance numbers, characteristics and photos of a given aircraft or aircraft type.
+Modified to only get the photo url
 
 ## Introduction
 
